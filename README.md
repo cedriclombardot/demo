@@ -1,3 +1,3 @@
 # demo
 
-Demo du dossier sample
+Demo du dossier ~/
